@@ -26,6 +26,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
+<br>
+
 Hi! I'm an aerospace engineering student with GNC experience working with autonomy algorithms, embedded software, and building simulation tools for optimal controls, robotics, drones, and orbit propagation. I'm skilled in design for manufacturability, and modeling in SolidWorks & NX. I also have a background in component fabrication, Engineering Change Management, and Document Control.
 
 <br>
