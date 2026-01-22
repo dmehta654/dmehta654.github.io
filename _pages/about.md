@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Aerospace Engineering Graduate Student. Specializing in Controls and Dynamical Systems. Graduating in August 2026
+subtitle: <h3><strong>Aerospace Engineering</strong> Graduate Student. Specializing in <strong>Controls and Dynamical Systems</strong>. Graduating in <strong>August 2026</strong></h3>
 
 profile:
   align: right
@@ -26,7 +26,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-Hi! I'm an Aerospace engineering student with GNC experience working with autonomy algorithms, embedded software, and building simulation tools for optimal controls, robotics, drones, and orbit propagation. I'm skilled in design for manufacturability, and modeling in SolidWorks & NX. I also have a background in component fabrication, Engineering Change Management, and Document Control.
+Hi! I'm an aerospace engineering student with GNC experience working with autonomy algorithms, embedded software, and building simulation tools for optimal controls, robotics, drones, and orbit propagation. I'm skilled in design for manufacturability, and modeling in SolidWorks & NX. I also have a background in component fabrication, Engineering Change Management, and Document Control.
+
+<br>
 
 When I'm not thinking about aerospace, I enjoy singing, making, and listening to music in my freetime. Along with some of my own engineering ventures, you'll find a couple music videos that I've helped create in the projects tab!
 
