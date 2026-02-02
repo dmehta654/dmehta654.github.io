@@ -6,7 +6,7 @@ subtitle: <h3><strong>Aerospace Engineering</strong> Graduate Student. Specializ
 
 profile:
   align: right
-  image: dhairya_prof_pic.jpg
+  image: dhairya_profile.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>University of Illinois</p>
